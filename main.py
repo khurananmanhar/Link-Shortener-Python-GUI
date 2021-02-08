@@ -9,6 +9,6 @@ layout = [  [sg.Text("Enter URL Here")],
 window = sg.Window('Window Title', layout)     
 event, values = window.read()         
 popUp = pyshorteners.Shortener().tinyurl.short(values[0]) 
-print(pyshorteners.Shortener().tinyurl.short(values[0]))         
+print(popUp)         
 sg.popup(popUp)
 window.close()      
