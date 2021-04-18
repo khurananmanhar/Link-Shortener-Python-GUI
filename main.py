@@ -2,6 +2,7 @@
 import pyshorteners
 #pip install PySimpleGUI
 import PySimpleGUI as sg
+#pip install pyperclip
 import pyperclip
 
 
