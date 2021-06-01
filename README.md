@@ -1,2 +1,2 @@
 # Link-Shortener-Python-GUI
-A Python Link Shortner GUi made with PySimpleGUI and pyShortener
+A Python Link Shortner GUI made with PySimpleGUI and pyShortener
